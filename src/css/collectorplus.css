@@ -1,0 +1,41 @@
+.cp-icon {
+    width: 48px;
+    height: 48px;
+    padding-top: 4px;
+    padding-left: 10px;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+}
+
+h2 {
+    padding-left: 20px;
+    font-family: serif;
+    margin-bottom: 2px;
+}
+
+li.description {
+    padding-top: 0;
+    padding-left: 2px;
+}
+
+a.description {
+    padding-left: 38px;
+}
+
+ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#screenshot {
+    padding-left: 32px;
+    width: 700px;
+    height: auto;
+}
+
+.link-button {
+    margin-left: 36px;
+}
