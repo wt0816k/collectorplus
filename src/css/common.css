@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    padding-left: 14px;
+    font-size: 20px;
+}
+
+.app-icon {
+    padding-left: 26px;
+    width: 80px;
+    height: 80px;
+}
+
+.app-link {
+    padding-left: 18px;
+    padding-right: 24px;
+    font-size: 22px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration:underline;
+    color: black;
+}
+
+.link-button {
+    width: 130px;
+    display: block;
+    margin: 1em 0;
+    line-height: 40px;
+    background: #673ab7;
+    color: #FFFFFF;
+    border-radius: 4px;
+    text-decoration: none;
+    text-align: center;
+    transition: background-color 0.24s;
+    cursor: pointer;
+}
+
+.link-button:hover {
+    background: #9f2aff;
+}
+
+.twitter-share-button {
+    margin-left: 20px;
+    margin-top: 10px;
+}
